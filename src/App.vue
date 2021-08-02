@@ -8,7 +8,7 @@
 <script>
     // import TabBar from './components/TabBar/Tab-Bar'
     // import TabBarItem from './components/TabBar/TabBarItem'
-    import TabBar from './views/TabView'
+    import TabBar from '@/views/TabView'
 export default {
   name: 'app',
   components: {
